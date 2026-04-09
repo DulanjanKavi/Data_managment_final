@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+**/venv/
+.venv/
+**/.venv/
+
+# Environment files
+**/.env
+**/.env.*
+**/.env.local
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
+
+# Node
+**/node_modules/
+
+# OS
+.DS_Store
